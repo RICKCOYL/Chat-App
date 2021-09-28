@@ -28,7 +28,7 @@ To build this application I used:
 
 ## Screenshots
 
-![screenshot1](./src/assets/chatscreenshot.png)
+![screenshot](./public/chatscreenshot.png)
 
 
 ## Features
