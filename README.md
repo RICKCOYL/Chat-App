@@ -35,6 +35,7 @@ To build this application I used:
 
 - Messaging capabilities
 - Authentication
+- Ability to see if a user is online
 
 
 ## Getting started (Feature)
@@ -42,8 +43,8 @@ To build this application I used:
 To get a local copy of the repository please run the following commands on your terminal:
 
 ```
-$ git clone https://github.com/RICKCOYL/Commerce-Store.git
-$ cd Commerce-Store
+$ git clone https://github.com/RICKCOYL/Chat-App.git
+$ cd Chat-App
 $ npm install
 $ npm run start 
 
@@ -81,7 +82,7 @@ Give an ⭐️ if you like this project!
 - Hat tip to [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) 
 
 ## Issues
-If you would like to report an issue [the link](https://github.com/RICKCOYL/Commerce-Store/issues)
+If you would like to report an issue [the link](https://github.com/RICKCOYL/Chat-App/issues)
 
 ## 📝 License
 
